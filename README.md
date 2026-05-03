@@ -1,2 +1,2 @@
-# personal
-private repository.
+# First repository
+The remote repository that starts it all.
